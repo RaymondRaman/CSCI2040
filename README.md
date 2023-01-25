@@ -1,1 +1,1 @@
-# This is my python class
+# This is my python course in CUHK
