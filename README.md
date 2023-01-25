@@ -1,1 +1,1 @@
-# CSCI2040
+# This is my python class
